@@ -1,0 +1,2 @@
+# ThesisBlog
+Blog uygulaması
